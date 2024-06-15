@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm youssef</h1>
 <h3 align="center">A hardworking CS student, Constantly learning and improving</h3>
-<img align="right" alt="Coding" width="300" src="https://miro.medium.com/v2/resize:fit:750/format:webp/0*CbJvtNMVUVp-FfDo.gif">
+<img align="right" alt="Coding" width="250" src="https://miro.medium.com/v2/resize:fit:750/format:webp/0*CbJvtNMVUVp-FfDo.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=youssefescobar&label=Profile%20views&color=0e75b6&style=flat" alt="youssefescobar" /> </p>
 
