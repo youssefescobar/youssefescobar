@@ -10,24 +10,24 @@
 💻 I build APIs, design networks, and occasionally argue with my code  
 🧪 Currently mixing backend, data analysis, and a little AI  
 🌍 Based in Egypt  
-☕️ Survive on toktok beeps and rat irls playlist
+☕️ Survives on toktok beeps and rat irls playlist
 
----
+
 
 ## 🧰 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,nodejs,express,mongodb,mysql,python,html,css,git,github,vscode,linux" />
+  <img src="https://skillicons.dev/icons?i=js,nodejs,express,mongodb,mysql,python,html,css,git,github,vscode,linux,pytorch,keras" />
 </p>
 
----
+
 
 ## 📈 GitHub Stats (a.k.a. my code therapy sessions)
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight&hide_title=true" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=youssefescobar&show_icons=true&theme=tokyonight&hide_title=true" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=youssefescobar&theme=tokyonight" height="180"/>
 </div>
 
----
+
 
 ## 🤝 Let's Connect!
 <p>
