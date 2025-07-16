@@ -5,10 +5,9 @@
 </p>
 
 
-## 🧠 About Me  
-🎓 CS Student at Ahram Canadian University (ACU)  
+## 🧠 About Me   
 💻 I build APIs, design networks, and occasionally argue with my code  
-🧪 Currently mixing backend, data analysis, and a little AI  
+🧪 Currently mixing backend, data analysis, and AI  
 🌍 Based in Egypt  
 ☕️ Survives on toktok beeps and rat irls playlist
 
